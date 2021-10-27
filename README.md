@@ -23,10 +23,10 @@ The case studies folder has the following content:
 
 8. Letter Image Recognition: Develop a model using Support Vector Machine which should correctly classify the letter images  from 
    A-Z based on the pixel values given as features.
-
+   
 9. Market Industry case study: Using Exploratory Data analysis to understand how consumer attributes and loan attributes 
    influence the tendency of default.
-
+   
 10.NYC Parking Case Study: Exploratory data analysis using PySpark for NYC parking tickets data to have better parking and fewer 
    tickets.
 
